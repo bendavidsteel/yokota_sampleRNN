@@ -1,0 +1,81 @@
+{
+    "names" : [
+        {
+            "Susuma Yokota" : {
+                "full" : [
+                    { "Acid Mt. Fuji" : "https://www.youtube.com/watch?v=lSY1tyuR3WQ" },
+                    { "1998" : "https://www.youtube.com/watch?v=y-X7MMNJDrk" },
+                    { "Image" : "https://www.youtube.com/watch?v=hJ7joUa9v3s" },
+                    { "1999" : "https://www.youtube.com/watch?v=xo6L3BwS_94" },
+                    { "Sakura" : "https://www.youtube.com/watch?v=BHdF4rTVLWE" },
+                    { "Zero" : "https://www.youtube.com/watch?v=TL_xLYChlos" },
+                    { "Grinning Cat" : "https://www.youtube.com/watch?v=SxWi7AXtJ1Q" },
+                    { "Will" : "https://www.youtube.com/watch?v=jlCr3YYMCkA" },
+                    { "Sound of Sky" : "https://www.youtube.com/watch?v=Gym0RBc6P80" },
+                    { "The Boy and The Tree" : "https://www.youtube.com/watch?v=3qmNBqvtdjY" },
+                    { "Over Head" : "https://www.youtube.com/watch?v=r9N8mw67gcY" },
+                    { "Laputa" : "https://www.youtube.com/watch?v=anweYTSCBhM" },
+                    { "Baroque" : "https://www.youtube.com/watch?v=L9vW7L7oiKc" },
+                    { "Symbol" : "https://www.youtube.com/watch?v=uA1Rvgo5ipo" },
+                    { "Dreamer" : "https://www.youtube.com/watch?v=qAUwrfebY28" }
+                ],
+                "playlist" : [
+                    { "Magic Thread" : "https://www.youtube.com/watch?v=okNS5K7EpU0&list=PLMa6AxW14TItmIMaDVEldnnA4jFGjNeUa" },
+                    { "Wonder Waltz" : "https://www.youtube.com/watch?v=BaJPoGtupAw&list=OLAK5uy_kmy0UBR6gb4nys3u-QFZVHrBHBvAzjiHM" },
+                    { "Mother" : "https://www.youtube.com/watch?v=B6NnsG6Zu_Y&list=PLqRlJtNuaBqVE9QUO26nly7KjLMgBhjgv" },
+                    { "Kaleidoscope" : "https://www.youtube.com/watch?v=3ebEqQBiew0&list=PLLqm1vgsCpo4yJ3rs1vOFNpOPK1-gR0iC" }
+                ]
+            }
+        },
+        {
+            "Anima Mundi" : {
+                "full" : [
+                    { "Anima Beat" : "https://www.youtube.com/watch?v=xcwk3C2Vyhg" }
+                ]
+            }
+        },
+        {
+            "Ebi" : {
+                "full" : [
+                    { "Zen" : "https://www.youtube.com/watch?v=td6yY7_zdE8" },
+                    { "Ten" : "https://www.youtube.com/watch?v=yNZVF0Xzobs" },
+                    { "Hi" : "https://www.youtube.com/watch?v=I4AvuqDiCN8" }
+                ]
+            }
+        },
+        {
+            "Prism" : {
+                "full" : [
+                    { "Metronome Melody" : "https://www.youtube.com/watch?v=uTjydO60jRY" },
+                    { "Fallen Angel" : "https://www.youtube.com/watch?v=BrGRTWXx9Z8" }
+                ]
+            }
+        },
+        {
+            "Ringo" : {
+                "full" : [
+                    { "Plantation" : "https://www.youtube.com/watch?v=XF9sRYzh9ps" }
+                ]
+            }
+        },
+        {
+            "Stevia" : {
+                "full" : [
+                    { "Fruits of the Room" : "https://www.youtube.com/watch?v=OYjA4AKTJFs" },
+                    { "Greenpeace" : "https://www.youtube.com/watch?v=jLKum-wcsOI" }
+                ]
+            }
+        },
+        {
+            "Yokota" : {
+                "full" : [
+                    { "The Frankfurt-Tokyo Connection" : "https://www.youtube.com/watch?v=8TWTIVpnnik" },
+                    { "Cat, Mouse and Me" : "https://www.youtube.com/watch?v=hYiG57ZKAxY" }
+                ],
+                "playlist" : [
+                    { "Psychic Dance" : "https://www.youtube.com/watch?v=uToCLyFCvU0&list=PLJ1MpqnVUJmW2jjmU0trL5APINWKY1tfK" }
+                ]
+            }
+        }
+    ]
+}
